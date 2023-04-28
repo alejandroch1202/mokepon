@@ -1,0 +1,22 @@
+{
+  "name": "mokepon",
+  "version": "1.0.0",
+  "description": "Simple js game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroch1202/mokepon.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Alejandro Chavez <alejandrochavez1202@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejandroch1202/mokepon/issues"
+  },
+  "homepage": "https://github.com/alejandroch1202/mokepon#readme"
+}
